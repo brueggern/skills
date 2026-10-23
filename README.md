@@ -1,6 +1,6 @@
-# claude-skills
+# Skills
 
-Personal [Claude Code](https://code.claude.com) skills, published as a plugin marketplace.
+Personal skills, published as a plugin marketplace.
 
 ## spec-workflow
 
