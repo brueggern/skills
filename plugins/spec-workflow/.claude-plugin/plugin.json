@@ -5,7 +5,7 @@
   "author": {
     "name": "Nicolas Brügger"
   },
-  "repository": "https://github.com/brueggern/claude-skills",
+  "repository": "https://github.com/brueggern/skills",
   "license": "MIT",
   "keywords": ["spec", "planning", "workflow"]
 }
